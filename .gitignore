@@ -1,2 +1,8 @@
 venv/
 __pycache__/
+cr_image_processing/.DS_Store
+cr_image_processing/demo/.DS_Store
+cr_image_processing/demo/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+*.jpg
+*.png
+cr_image_processing/demo/Untitled.ipynb
